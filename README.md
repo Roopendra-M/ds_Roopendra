@@ -5,7 +5,7 @@ This project analyzes trading performance in relation to market sentiment.
 It uses Python for data cleaning and visualization, and LaTeX for report generation.
 ---
 ## Folder Structure
-
+``` bash
 .
 ├── csv files/ # Raw and processed data files
 ├── outputs/ # Generated plots
@@ -16,7 +16,7 @@ It uses Python for data cleaning and visualization, and LaTeX for report generat
 ├── report.tex # LaTeX report file
 └── README.md # This file
 
-
+```
 
 ---
 
